@@ -32,6 +32,7 @@
 
 * GitHub: https://github.com/ShogunXDD
 * LinkedIn: https://www.linkedin.com/in/aditya-yadav-cs/
+* TryHackMe: https://tryhackme.com/p/ShoGUNbadmosh
 
 ---
 
